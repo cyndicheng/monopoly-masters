@@ -1,4 +1,4 @@
-# monopoly-masters
+# The Monopoly Game (IST 303, Fall 2020)
 
 ### Team name
 Monopoly Masters
@@ -44,12 +44,12 @@ Players who are into classic board games. New players who are looking for digita
 1. As a user, I can see a welcome page when I first logged on.  The welcome page allows me to sign in or register. 
 
 ##### 10 days, priority 20
-2. As a user, after the game start I MUST be able to enter the number of players [between 2 and 4]. 
-If I press Cancel, then I MUST be able to exit the game.
+2. As a user, after the game start I MUST be able to enter the number of players (2 to 4)
+If I press Cancel, I MUST be able to exit the game.
 
 ##### 5 days, priority 20
 3. As a player, I must be allowed to roll the dice and move my characters around the board, clockwise.
-Roll the dice to see who goes first. This highest roll begins the game 
+Roll the dice to see who goes first. This highest roll begins the game.
 
 ##### 5 days, priority 40
 4. As a user, I must be able to pick or choose a token to represent me on the board.
@@ -60,6 +60,7 @@ Roll the dice to see who goes first. This highest roll begins the game
 #### Milestone 1.0 
 How many iterations for milestone one should we have ?
 I'm thinking we can have these small iterations as srcum sprints for ease of task accomplishement. [Open to discussion]
+
 #### Iteration # 1 [Task 1]
 
 As a user, I can see a welcome page when I first logged on. The welcome page allows me to sign in or register.
@@ -69,13 +70,14 @@ As a user, I can see a welcome page when I first logged on. The welcome page all
 	- Signup page [signup.html][userame, email & password]
 	- Login page [login.html][username & password]
 	- set the virtualEnv
+	
 #### Iteration # 2 [Task 2]
 
-- Our information store is going to be SQLAlchemy [ User information storage as well as the game information]
+- Our information store is going to be SQLAlchemy [User information storage as well as the game information]
 - Create a database where the user information is going to be stored. 
 - Validation will be -- Adding a user to the database 
 
-#### Iteration # 3 [ Task 3]
+#### Iteration # 3 [Task 3]
 
 As a user, after the game start I MUST be able to enter the number of players [between 2 and 4]. 
 - If I press Cancel, then I MUST be able to exit the game.
