@@ -98,5 +98,5 @@ Players who are into classic board games. New players who are looking for digita
 3. TBD
 
 ### Velocity
-Timeline: 20 days until Milestone 1.0 is due, xx days until Milestone 2.0 is due
+Timeline: 20 days until Milestone 1.0 is due, xx days until Milestone 2.0 is due, 
 Velocity: 30%
